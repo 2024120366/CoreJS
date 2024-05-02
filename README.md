@@ -15,7 +15,7 @@
 
 - 💬 Ask me about.   **[kimdonghyune99@gmail.com]**
 <h3 align="left">연결해주세요:</h3>
-- 📝 Blog for uploading example source code  **[https://donghyune-kim.github.io/]**
+- 📝 Blog for uploading example source code  **[https://donghyune-kim.github.io]**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/githyune99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="githyune99" height="30" width="40" /></a>
