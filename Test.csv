@@ -1,0 +1,26 @@
+ CUDA 기반 GPU 병렬 처리 프로그래밍,
+ 김덕수,
+--------------------------------------------------------------------------------------
+v Week  1, Chapter  1, GPGPU and parallel processing overview (hipsa_CUDA Study_01), 김동현, [2024-04-25]  → [2024-05-02까지 연장],
+v Week  2, Chapter  1, GPGPU and parallel processing overview (hipsa_CUDA Study_01), 김동현, [2024-05-02],
+v Week  2, Chapter  2, CUDA Overview   (hipsa_CUDA Study_02)                       , 김동현, [2024-05-02],
+v Week  3, Chapter  3, CUDA programming basic flow   (hipsa_CUDA Study_03)      , 김동현, [2024-05-09],
+  Week  4, 예비군으로 인한 지연                                                            , [2024-05-16],
+  Week  4, Chapter  3, CUDA programming basic flow   (hipsa_CUDA Study_03)      , 김동현, [2024-05-16],
+  Week  5, Chapter  4, CUDA thread layer                       , 홍혜란, [2024-05-23],
+  Week  6, Chapter  5, Thread layout and indexing                    , 김동현, [2024-05-30],
+  Week  7, Chapter  6, CUDA execution model                       , 홍혜란, [2024-06-06]  →  (현충일(공휴일)),
+  Week  8, Chapter  7, CUDA-based matrix multiplication programming                , 김동현, [2024-06-13],
+  Week  9, Chapter  8, CUDA memory hierarchy                                     , 홍혜란, [2024-06-20],
+  Week 10, Chapter  9, CUDA shared memory                              , 김동현, [2024-06-27],
+  Week 11, Chapter 10, Matrix multiplication program using shared memory           , 김동현, [2024-07-04],
+  Week 12, Chapter 11, Optimized memory access performance                     , 홍혜란, [2024-07-11],
+  Week 13, Chapter 12, Synchronization and concurrent execution: 12.1-2              , 김동현, [2024-07-18],
+  Week 14, Chapter 12, Synchronization and concurrent execution: 12.3-4              , 홍혜란, [2024-07-25],
+--------------------------------------------------------------------------------------
+[AR].
+- ppt파일명을 chapter이름 뒤에 괄호 안에 넣었습니다. ,
+- chap3는 week4까지로 연장되어 나머지 chapter가 한주씩 밀렸습니다. ,
+- 김동현의 예비군 소집일이 5.16이어서 다음주 스터디 날짜를 변경 또는 휴식 해야할 것 같습니다. ,
+
+CUDA Study Status = 2 weeks Delay,
