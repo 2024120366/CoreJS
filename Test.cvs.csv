@@ -19,8 +19,8 @@ v Week  3, Chapter  3, CUDA programming basic flow   (hipsa_CUDA Study_03)      
   Week 14, Chapter 12, Synchronization and concurrent execution: 12.3-4              , 홍혜란, [2024-07-25]
 --------------------------------------------------------------------------------------,,,,
 [AR].,,,,
-#NAME?,,,,
-#NAME?,,,,
+- ppt파일명을 chapter이름 뒤에 괄호 안에 넣었습니다. ,,,,
+- chap3는 week4까지로 연장되어 나머지 chapter가 한주씩 밀렸습니다. ,,,,
 - 김동현의 예비군 소집일이 5.16이어서 다음주 스터디 날짜를 변경 또는 휴식 해야할 것 같습니다. ,,,,
 ,,,,
 CUDA Study Status = 2 weeks Delay,,,,
