@@ -1,5 +1,5 @@
-CUDA Study book,﻿ CUDA 기반 GPU 병렬 처리 프로그래밍,,,,
-Author, 김덕수,,,,
+# ,CUDA Study book,﻿ CUDA 기반 GPU 병렬 처리 프로그래밍,,,,
+,Author, 김덕수,,,,
 ,,,,
 v Week  1, Chapter  1, GPGPU and parallel processing overview (hipsa_CUDA Study_01), 김동현, [2024-04-25]  → [2024-05-02까지 연장]
 v Week  2, Chapter  1, GPGPU and parallel processing overview (hipsa_CUDA Study_01), 김동현, [2024-05-02]
