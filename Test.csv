@@ -1,0 +1,28 @@
+ CUDA 기반 GPU 병렬 처리 프로그래밍 ,,,
+ 김덕수,,,
+,,,
+v Week  1 [2024-04-25], Chapter  1, GPGPU and parallel processing overview (hipsa_CUDA Study_01), 김동현
+v Week  2 [2024-05-02], Chapter  1, GPGPU and parallel processing overview (hipsa_CUDA Study_01), 김동현
+v Week  2 [2024-05-02], Chapter  2," CUDA Overview	(hipsa_CUDA Study_02)	                ", 김동현
+v Week  3 [2024-05-09], Chapter  3," CUDA programming basic flow	(hipsa_CUDA Study_03)           ", 김동현
+  Week  4 [2024-05-16],,      예비군,
+  Week  5 [2024-05-23], Chapter  3," CUDA programming basic flow	(hipsa_CUDA Study_03)           ", 김동현
+  Week  6 [2024-05-30], Chapter  4," CUDA thread layer				                ", 홍혜란
+  Week  7 [2024-06-06],, 현충일,
+  Week  8 [2024-06-13], Chapter  5, Thread layout and indexing                                  , 김동현
+  Week  9 [2024-06-20], Chapter  6," CUDA execution model				        ", 홍혜란
+  Week 10 [2024-06-27], Chapter  7, CUDA-based matrix multiplication programming                , 김동현
+  Week 11 [2024-07-04], Chapter  8," CUDA memory hierarchy	     	         	        ", 홍혜란
+  Week 12 [2024-07-11], Chapter  9," CUDA shared memory			                        ", 김동현
+  Week 13 [2024-07-18], Chapter 10, Matrix multiplication program using shared memory           , 김동현
+  Week 14 [2024-07-25], Chapter 11," Optimized memory access performance	            	        ", 홍혜란
+  Week 15 [2024-08-01], Chapter 12," Synchronization and concurrent execution: 12.1-2	        ", 김동현
+  Week 16 [2024-08-08], Chapter 12," Synchronization and concurrent execution: 12.3-4	        ", 홍혜란
+,,,
+[AR],,,
+- ppt파일명을 chapter이름 뒤에 괄호 안에 넣었습니다.,,,
+- chap3는 week4까지로 연장되어 나머지 chapter가 한주씩 밀렸습니다.,,,
+- 스터디 날짜를 앞으로 옮겼습니다.,,,
+
+,,,
+- CUDA Study Status = 3 weeks Delayed,,,
