@@ -1,6 +1,6 @@
 Da Vinci Learning Activity ,,,
-Polaris Contents: DNN hardware accelerator design roadmap ,,,
-Polaris : https://www.disu.ac.kr/LOCnLOS/AIX/notice?md=v&bbsidx=7659 ,,,
+Polaris Contents: ,  DNN hardware accelerator design roadmap ,,,
+Polaris : ,  https://www.disu.ac.kr/LOCnLOS/AIX/notice?md=v&bbsidx=7659 ,,,
 
 
 1, 하드웨어 아키텍처 설계 관점:  ,
@@ -18,9 +18,9 @@ Polaris : https://www.disu.ac.kr/LOCnLOS/AIX/notice?md=v&bbsidx=7659 ,,,
 3. 하드웨어 구현:  ,
 - FPGA 보드를 사용 목적에 맞게 적절한 기능을 제공하는 방법에 대해 학습  ,
 - DSP(Digital Signal Processing)에 대해 학습  ,
-  (Ex, DSP란 무엇이며, 어떤 역할을 하는지에 대해 학습을 진행)
+  ,(Ex, DSP란 무엇이며, 어떤 역할을 하는지에 대해 학습을 진행),
 - S/W Architecture 관점에서 데이터 구조 및 알고리즘을 다시 학습  , 
 
 4. 테스트 및 평가:  ,
 - FPGA로 설계한 모델을 테스트하고 성능을 평가하는 방법에 대해 알아본다.  ,
-  (Ex, 정확도, 추론 속도, 에너지 효율성 등을 고려하여 평가) 
+  ,(Ex, 정확도, 추론 속도, 에너지 효율성 등을 고려하여 평가), 
