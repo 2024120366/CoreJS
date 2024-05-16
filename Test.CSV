@@ -1,15 +1,15 @@
 2024s1 1:1 Meeting,,,
 
 hipsas overall,,,
-hipsas overall,h/w,pc,,
-hipsas overall,h/w,monitor,,
-hipsas overall,h/w,notebook,,
-hipsas overall,h/w,printer,,
-hipsas overall,h/w,network check,,
+hipsas overall,h/w,pc,
+hipsas overall,h/w,monitor,
+hipsas overall,h/w,notebook,
+hipsas overall,h/w,printer,
+hipsas overall,h/w,network check,
 hipsas overall,h/w,network check_ip,고정 IP 165.194.123.15 (신청 dhcp.cau.ac.kr),
 hipsas overall,h/w,network check_status,이상 없습니다.,
 
-hipsas overall,s/w,ezPDF S/W 삭제,,,
+hipsas overall,s/w,ezPDF S/W 삭제,
 hipsas overall,s/w,ezPDF S/W 삭제_대체 S/W,PDF Reader, 아크로뱃 리더 : https://get.adobe.com/kr/reader/,
 hipsas overall,s/w,ezPDF S/W 삭제_대체 S/W,PDF 편집, PDF Gear : https://www.pdfgear.com/,
 
