@@ -1,28 +1,26 @@
- CUDA 기반 GPU 병렬 처리 프로그래밍 ,,,
- 김덕수,,,
-,,,
-v Week  1 [2024-04-25], Chapter  1, GPGPU and parallel processing overview (hipsa_CUDA Study_01), 김동현
-v Week  2 [2024-05-02], Chapter  1, GPGPU and parallel processing overview (hipsa_CUDA Study_01), 김동현
-v Week  2 [2024-05-02], Chapter  2," CUDA Overview	(hipsa_CUDA Study_02)	                ", 김동현
-v Week  3 [2024-05-09], Chapter  3," CUDA programming basic flow	(hipsa_CUDA Study_03)           ", 김동현
-  Week  4 [2024-05-16],,      예비군,
-  Week  5 [2024-05-23], Chapter  3," CUDA programming basic flow	(hipsa_CUDA Study_03)           ", 김동현
-  Week  6 [2024-05-30], Chapter  4," CUDA thread layer				                ", 홍혜란
-  Week  7 [2024-06-06],, 현충일,
-  Week  8 [2024-06-13], Chapter  5, Thread layout and indexing                                  , 김동현
-  Week  9 [2024-06-20], Chapter  6," CUDA execution model				        ", 홍혜란
-  Week 10 [2024-06-27], Chapter  7, CUDA-based matrix multiplication programming                , 김동현
-  Week 11 [2024-07-04], Chapter  8," CUDA memory hierarchy	     	         	        ", 홍혜란
-  Week 12 [2024-07-11], Chapter  9," CUDA shared memory			                        ", 김동현
-  Week 13 [2024-07-18], Chapter 10, Matrix multiplication program using shared memory           , 김동현
-  Week 14 [2024-07-25], Chapter 11," Optimized memory access performance	            	        ", 홍혜란
-  Week 15 [2024-08-01], Chapter 12," Synchronization and concurrent execution: 12.1-2	        ", 김동현
-  Week 16 [2024-08-08], Chapter 12," Synchronization and concurrent execution: 12.3-4	        ", 홍혜란
-,,,
-[AR],,,
-- ppt파일명을 chapter이름 뒤에 괄호 안에 넣었습니다.,,,
-- chap3는 week4까지로 연장되어 나머지 chapter가 한주씩 밀렸습니다.,,,
-- 스터디 날짜를 앞으로 옮겼습니다.,,,
+Da Vinci Learning Activity ,,,
+Polaris Contents: DNN hardware accelerator design roadmap ,,,
+Polaris : https://www.disu.ac.kr/LOCnLOS/AIX/notice?md=v&bbsidx=7659 ,,,
 
-,,,
-- CUDA Study Status = 3 weeks Delayed,,,
+
+1, 하드웨어 아키텍처 설계 관점:  ,
+- FPGA를 학습하는 과정과 HDL에 대해 학습 (Verilog HDL, VHDL)  ,
+- FPGA를 이용하여 DNN 모델을 가속화하기 위한 하드웨어 아키텍처 설계 시 고려해야 할 상황에 대해 학습  ,
+  (Ex, CNN을 사용하는 경우 합성곱 연산을 효율적으로 지원하는 가속기 모델을 고려하고 설계)
+
+2. 소프트웨어 개발:  ,
+- 어셈블리언어 및 기계어를 이해  ,
+- 프로세서의 동작 원리와 구조를 학습  ,
+- 메모리 시스템과 입출력 시스템을 학습  ,
+- 하드웨어와 소프트웨 간의 상호 작용과 통합에 대해 학습  ,
+- 프로그래밍 언어와 알고리즘을 학습  ,
+
+3. 하드웨어 구현:  ,
+- FPGA 보드를 사용 목적에 맞게 적절한 기능을 제공하는 방법에 대해 학습  ,
+- DSP(Digital Signal Processing)에 대해 학습  ,
+  (Ex, DSP란 무엇이며, 어떤 역할을 하는지에 대해 학습을 진행)
+- S/W Architecture 관점에서 데이터 구조 및 알고리즘을 다시 학습  , 
+
+4. 테스트 및 평가:  ,
+- FPGA로 설계한 모델을 테스트하고 성능을 평가하는 방법에 대해 알아본다.  ,
+  (Ex, 정확도, 추론 속도, 에너지 효율성 등을 고려하여 평가) 
