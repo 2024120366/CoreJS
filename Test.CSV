@@ -8,29 +8,36 @@ hipsas overall,h/w,printer,,
 hipsas overall,h/w,network check,,
 hipsas overall,h/w,network check_ip,고정 IP 165.194.123.15 (신청 dhcp.cau.ac.kr),
 hipsas overall,h/w,network check_status,이상 없습니다.,
+
 hipsas overall,s/w,ezPDF S/W 삭제,,
 hipsas overall,s/w,ezPDF S/W 삭제_대체 S/W,PDF Reader, 아크로뱃 리더 : https://get.adobe.com/kr/reader/,
 hipsas overall,s/w,ezPDF S/W 삭제_대체 S/W,PDF 편집, PDF Gear : https://www.pdfgear.com/,
+
 hipsas overall,utilities,utilities_team,시설팀 냉난방 6220,김범준/전기 6218/문 6221
 hipsas overall,utilities,cooling_repair,냉난방 수리,[done: 추후 냉난방 기능 확인], →, [ 냉방 기능 이상 없습니다. ],
 hipsas overall,utilities,door_lock,door lock,[hold], 
 hipsas overall,기타,cleaning,청소 등,
+
 study,,,,,
 study,DNN,roadmap,hipsaStudyDNN.txt,
 study,CUDA,roadmap,Hipsa-CUDA-Study repository,
 study,POLARIS,roadmap,Da Vinci Learning Roadmap,
 study,POLARIS,notice_link,https://semicon.disu.ac.kr/LOCnLOS/AIX/notice 
+
 project,,,,,
+
 class,,,,,
 class,설계실습,roadmap,설계실습.txt,
 class,설계실습,project_notice,설계실습 프로젝트 공지 내용 업로드,
 class,설계실습,project_duration,2024-05-06 ~ 2024-05-30 : 프로젝트 진행 
 class,DL 컴퓨터구조,curriculum_reflection,POLARIS 학습 내용을 반영 (학습 내용 : Deep Learning Hardware Design)
 class,DL 컴퓨터구조,upload_content,업로드: Creating a Da Vinci Learning Roadmap
+
 exam,,,,,
 exam,중간시험,exam_date_20240424,2024-04-24 [수], 시험지 수령
 exam,중간시험,exam_subject_1,기초컴퓨터프로그래밍,4/24 13:00-14:30,#310-622/620,[620 : 김동현], [622 : 이한빈]
 exam,중간시험,exam_subject_2,마이크로컴퓨터시스템,4/25 11:00-12:30,#310-723
 exam,중간시험,exam_subject_3,컴퓨터구조,4/25 14:00-15:00,#310-729
+
 others,,,,,
 others,복사실,expense,복사실: [20240325 185,000원]
